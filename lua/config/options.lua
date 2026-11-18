@@ -10,3 +10,4 @@ opt.expandtab = true -- Use spaces instead of literal tab characters
 
 vim.opt.number = true
 vim.opt.relativenumber = false
+vim.opt.scrolloff = 0
